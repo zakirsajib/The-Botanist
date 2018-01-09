@@ -1,0 +1,55 @@
+.dot2,
+nav.navbar ul.nav > li > a:before,
+.navbar-search-box  .navbar-search-box-button .button-blue,
+header nav.navbar.navbar-fixed .menu-icon:hover span,
+header nav.navbar.navbar-fixed .menu-icon:hover span:before,
+header nav.navbar.navbar-fixed .menu-icon:hover span:after,
+.full-menu ul.full-nav li a:hover,
+.hover-div-blue:hover .member-2-img-back{
+    background: #a68d34 !important;
+}
+.blue-span,
+.hover-div-blue:hover .name-member,
+.pushmenu .push_nav > li > a:hover,
+.pushmenu .push_nav > li > a:focus,
+.pushmenu .push_nav > li.active > a{
+    color:#579fd7 !important;
+}
+.hover-div-blue:hover .img-hover-circal{
+    border-color: #4fbbe9 !important;
+}
+.default_divider_blue {
+    border-top-color: #4fbbe9!important;
+}
+.dot1,
+.button-blue:before,
+.menu-icon span,
+.menu-icon span:before,
+.menu-icon span:after,
+.hover-div-yellow:hover .member-1-img-back{
+    background: #a68d34;
+}
+
+.yellow-span,
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default ul li a:hover,
+header .scroll-nav  .navbar-search-box-icon .active i,
+.navbar .navbar-search-box-icon .search-icon i:hover,
+.navbar .navbar-search-box-icon .search-icon i:focus,
+.navbar .navbar-search-box-icon .search-icon i:active,
+.default-span-yellow,
+.tp-bullet.selected, .tp-bullet:hover,
+.hover-div-yellow:hover .name-member{
+    color:#a68d34 !important;
+}
+
+.hover-div-yellow:hover .img-hover-circal,
+.tp-bullet.selected, .tp-bullet:hover,.pushmenu{
+    border-color: #fcc121 !important;
+}
+
+.default_divider {
+    border-top-color: #fcc121;
+}
